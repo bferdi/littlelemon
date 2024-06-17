@@ -1,4 +1,4 @@
-# Lemon Web Application - META Backend Developer Specialization
+# Lemon Web Application
 
 ![Lemon Web Application](restaurant/static/img/logo.png)
 
@@ -22,7 +22,7 @@ Lemon Web Application is a dynamic web application built using Django as part of
 
 ## Installation and Setup
 
-1. Clone the repository from [GitHub](https://github.com/yourusername/lemon-web-app).
+1. Clone the repository from [GitHub](https://github.com/bferdi/littlelemon).
 2. Create and activate a virtual environment.
 3. Install the required dependencies using the following command:
    ```
@@ -50,9 +50,6 @@ Lemon Web Application is a dynamic web application built using Django as part of
 3. As a regular user, you can view products, add them to the cart, and place orders.
 4. Use the search functionality to find specific products by name or description.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to create a pull request or open an issue.
 
 ## License
 
@@ -60,4 +57,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Thank you for checking out Lemon Web Application. We hope you find it useful and enjoy using it! If you have any questions or need assistance, please feel free to contact us. Happy coding! 🍋
+Thank you for checking out Lemon Web Application. 🍋
